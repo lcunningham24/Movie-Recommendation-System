@@ -7,9 +7,9 @@ Dataset: https://grouplens.org/datasets/movielens/latest/
 
 Fortunately, the Movielens dataset was very clean. For my early analysis I looked at the ratings and genres to understand how they were distributed in my dataset.
 
-![Image]('ratings.png')
+![Image]('/ratings.png')
 
-![Image]('genres.png')
+![Image]('/genres.png')
 
 
 ## Building Recommendation System
